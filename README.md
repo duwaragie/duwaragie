@@ -9,12 +9,11 @@
   <a href="https://duwaragie-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Google%20Chrome&label=&color=FFA500&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://twitter.com/Its_Mzayan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
 </div>
-
-<h1 align="center">Hey there! 👋 I'm Duwaragie Kugaraj</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=duwaragie.duwaragie&" />
+</div>
+<h1 align="center">Hello World! I'm Duwaragie Kugaraj</h1>
 <br/>
 
 ## 💫 About Me
